@@ -1,0 +1,127 @@
+{
+  "global": {
+    "weight": 0
+  },
+  "glyphs": {
+    ",": {
+      "scale": 1,
+      "baseline": -110,
+      "advance": 0,
+      "weight": 0
+    },
+    "Т": {
+      "scale": 1,
+      "baseline": 0,
+      "advance": 0,
+      "weight": -1
+    },
+    "а": {
+      "scale": 1,
+      "baseline": 0,
+      "advance": 0,
+      "weight": -1
+    },
+    "у": {
+      "scale": 1.4,
+      "baseline": -165,
+      "advance": 0,
+      "weight": 1
+    },
+    "ы": {
+      "scale": 1.5,
+      "baseline": 0,
+      "advance": 0,
+      "weight": 0
+    },
+    "р": {
+      "scale": 1.4,
+      "baseline": -120,
+      "advance": 0,
+      "weight": 0
+    },
+    "з": {
+      "scale": 1.4,
+      "baseline": -115,
+      "advance": 0,
+      "weight": 0
+    },
+    "и": {
+      "scale": 0.76,
+      "baseline": 0,
+      "advance": 0,
+      "weight": 0
+    },
+    "й": {
+      "scale": 1.18,
+      "baseline": 0,
+      "advance": 0,
+      "weight": 0
+    },
+    "к": {
+      "scale": 0.76,
+      "baseline": 0,
+      "advance": 0,
+      "weight": 0
+    },
+    "б": {
+      "scale": 1.4,
+      "baseline": 0,
+      "advance": 0,
+      "weight": 0
+    },
+    "Ц": {
+      "scale": 1.28,
+      "baseline": 0,
+      "advance": 0,
+      "weight": 0
+    },
+    "З": {
+      "scale": 1.39,
+      "baseline": 0,
+      "advance": 0,
+      "weight": 0
+    },
+    "Д": {
+      "scale": 1,
+      "baseline": 100,
+      "advance": 0,
+      "weight": 0
+    },
+    "Н": {
+      "scale": 1,
+      "baseline": 0,
+      "advance": 0,
+      "weight": -1
+    },
+    "О": {
+      "scale": 1,
+      "baseline": 0,
+      "advance": 0,
+      "weight": -1
+    },
+    "д": {
+      "scale": 1.39,
+      "baseline": 200,
+      "advance": 0,
+      "weight": 0
+    },
+    "е": {
+      "scale": 1,
+      "baseline": 0,
+      "advance": 0,
+      "weight": 0
+    },
+    "в": {
+      "scale": 1.45,
+      "baseline": 0,
+      "advance": 0,
+      "weight": 0
+    },
+    "ш": {
+      "scale": 0.99,
+      "baseline": 0,
+      "advance": 0,
+      "weight": -1
+    }
+  }
+}
